@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LoginForm",
+    "\\LoginForm\\App_Start",
+    "\\LoginForm\\Views",
+    "\\LoginForm\\Views\\Login"
+  ],
+  "SelectedNode": "\\LoginForm\\Views\\Login\\Login.cshtml",
+  "PreviewInSolutionExplorer": false
+}
